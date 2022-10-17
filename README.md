@@ -16,6 +16,9 @@ To run the project, please download the source code and follow the instructions.
 
 1. Tested to be working on Python 3.7 and Python 3.8
 2. Install all the necessary dependencies.
+3. Createa a folder named 'data' in the same directory where you have the code.
+4. Copy and paste the two csv files in this folder.
+
 ```
 pip install -r requirements.txt
 ```
